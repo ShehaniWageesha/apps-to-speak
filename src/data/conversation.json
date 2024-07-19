@@ -1,0 +1,9 @@
+[
+  { "speaker": "Sarah", "text": "Hello David, How are you today?" },
+  { "speaker": "David", "text": "I am good, Thank you. How are you?" },
+  { "speaker": "Sarah", "text": "I'm fine too, What are you up to?" },
+  { "speaker": "David", "text": "Not much, Just work. And you?" },
+  { "speaker": "Sarah", "text": "Same. Busy with work." },
+  { "speaker": "David", "text": "It was great talking to you." },
+  { "speaker": "Sarah", "text": "It was very nice talking to you too." }
+]
